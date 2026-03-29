@@ -1,5 +1,11 @@
 ## Hi there 👋
-My name is Jashn Agarwal. I am currently pursuing a Bachelor of Technology (B.Tech) degree in Electronics and Communication Engineering from VIT Bhopal University, and I belong to the 2025 graduating batch. I have a keen interest in understanding modern communication systems, electronics, and emerging technologies. Throughout my academic journey, I have been developing both technical and problem-solving skills, which help me approach challenges in a structured and analytical manner. I am enthusiastic about learning new concepts, working on practical projects, and continuously improving my knowledge in the field of engineering.
+My name is Jashn Agarwal. I am currently pursuing a Bachelor of Technology (B.Tech) in Electronics and Communication Engineering from VIT Bhopal University, and I belong to the 2025 graduating batch.
+
+I have a strong interest in electronics, communication systems, and emerging technologies. I enjoy exploring how modern devices work and how technology can be used to solve real-world problems. I am particularly interested in areas such as embedded systems, networking, and digital technologies, and I like learning through both theory and practical applications.
+
+In terms of skills, I have developed a good foundation in problem-solving, analytical thinking, and basic programming. I am also comfortable working with technical tools and software related to my field. Additionally, I possess good communication skills, teamwork abilities, and a willingness to learn new things, which help me adapt to different situations effectively.
+
+My goal is to build a successful career in the technology sector, where I can apply my knowledge and skills to contribute to innovative projects and advancements. I aim to continuously improve myself, gain practical experience, and stay updated with the latest trends in engineering and technology.
 <!--
 **Jashn-agarwal/Jashn-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
