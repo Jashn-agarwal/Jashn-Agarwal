@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Jashn Agarwal.
+I am a B.Tech student in Electronics and Communication Engineering at VIT Bhopal University, graduating in the 2025 batch.
 
 <!--
 **Jashn-agarwal/Jashn-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
