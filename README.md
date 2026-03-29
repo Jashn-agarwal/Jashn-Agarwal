@@ -1,7 +1,5 @@
 ## Hi there 👋
-My name is Jashn Agarwal.
-I am a B.Tech student in Electronics and Communication Engineering at VIT Bhopal University, graduating in the 2025 batch.
-
+My name is Jashn Agarwal. I am currently pursuing a Bachelor of Technology (B.Tech) degree in Electronics and Communication Engineering from VIT Bhopal University, and I belong to the 2025 graduating batch. I have a keen interest in understanding modern communication systems, electronics, and emerging technologies. Throughout my academic journey, I have been developing both technical and problem-solving skills, which help me approach challenges in a structured and analytical manner. I am enthusiastic about learning new concepts, working on practical projects, and continuously improving my knowledge in the field of engineering.
 <!--
 **Jashn-agarwal/Jashn-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
